@@ -6,7 +6,7 @@ A basic markdown to HTML converter
 
 ## Pre Requisites
 * [NodeJS v16](https://nodejs.org/en/download/)
-* [Nest CLI (optional)](https://docs.nestjs.com/#installation)
+* [Nest CLI](https://docs.nestjs.com/#installation)
 
 ## Installation
 
